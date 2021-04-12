@@ -1,1 +1,11 @@
-{"data":[{"url":"123456"},{"url":"123456"}],"code":0,"msg":null}
+{
+	"wallpaper": [{
+		"url": "https://images.unsplash.com/photo-1617512808679-8da634467f2e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
+	}, {
+		"url": "https://images.unsplash.com/photo-1617002875212-2d64c72ea93b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
+	}, {
+		"url": "https://images.unsplash.com/photo-1615558195281-dcd4515195ee?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"
+	}],
+	"code": 1,
+	"msg": 1
+}
